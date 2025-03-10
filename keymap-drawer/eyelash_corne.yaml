@@ -20,7 +20,7 @@ layers:
   - {t: F, h: '$$mdi:apple-keyboard-control$$'}
   - G
   - $$mdi:pan-left$$
-  - Gui+Sft+Ctl+ L
+  - Gui+Sft+Ctl+L
   - $$mdi:pan-right$$
   - H
   - J
@@ -41,7 +41,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:keyboard-esc$$
+  - G
   - (
   - {t: '[', h: SYMBOL, s: '{'}
   - $$mdi:keyboard-space$$
